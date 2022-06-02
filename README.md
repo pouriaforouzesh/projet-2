@@ -14,7 +14,7 @@ une analyse de concentration, via une courbe de Lorenz et un indice de Gini ;
 des représentations graphiques, dont au moins un histogramme, une représentation avec des "boîtes à moustaches", et une représentation de série temporelle (c’est-à-dire un graphique dont l’axe des abscisses représente des dates) ;
 des analyses bivariées.
 
-Mission n° 3
+Mission n° 3:
 Voici quelques questions supplémentaires, que votre manager vous a posées :
 
 Y a-t-il une corrélation entre le sexe des clients et les catégories de produits achetés ?
@@ -26,6 +26,6 @@ Les catégories de produits achetés.
 
 Compétences évaluées:
 
-Décrire un jeu de données par la statistique descriptive
-Maîtriser les concepts statistiques fondamentaux
-Nettoyer un jeu de données
+Décrire un jeu de données par la statistique descriptive,
+Maîtriser les concepts statistiques fondamentaux,
+Nettoyer un jeu de données.
